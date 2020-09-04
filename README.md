@@ -17,6 +17,6 @@
 - ⚡ Fun fact: I'm sloth, but i make a good coffe 
 
 - Certificats:
---98-349:MTA: Windows® Operating System Fundamentals 06.07.2020
+- 98-349:MTA: Windows® Operating System Fundamentals 06.07.2020
 
 But hey everybody needs to start from somewhere ;D
