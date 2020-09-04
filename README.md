@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, Hello, I'm Michał, but you can call me Gaderiv 👋
 
-<!--
-**gaderiv/gaderiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studing IT at Wyższa szkoła Bankowa w Poznaniu, oddział w Szczecinie.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning C++, C#, Unity, Unreal Engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Game Dev.
+
+- 🤔 I’m looking for help with code optimalization and smooth code movement.
+
+- 💬 Ask me about my studies.
+
+- 📫 How to reach me: Send email to gaderiv@wp.pl or find me on LinkedIn
+
+- 😄 Pronouns: He/His
+
+- ⚡ Fun fact: I'm sloth, but i make a good coffe 
+
+But hey everybody needs to start from somewhere ;D
