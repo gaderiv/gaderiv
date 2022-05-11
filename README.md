@@ -6,7 +6,7 @@
 
 - 🤔 I’m looking for oportunity to gain more experience.
 
-- 📫 How to reach me: Send email to gaderiv@wp.pl or find me on LinkedIn (https://www.linkedin.com/in/gaderiv/)
+- 📫 How to reach me: Send email to gaderiv@gmail.com or find me on LinkedIn (https://www.linkedin.com/in/gaderiv/)
 
 - 😄 Pronouns: He/His
 
